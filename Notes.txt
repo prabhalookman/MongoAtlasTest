@@ -1,0 +1,10 @@
+http://localhost:3000/add_user
+
+mongodb+srv://adminprabha:Atlas%40123@aws.dwzni.mongodb.net/HMISDB?retryWrites=true&w=majority
+
+mongodb+srv://ananduse:3CTLbbttBT7wTZw@cluster0.zt0q7.mongodb.net/hmis?retryWrites=true&w=majority
+
+MONGO_URL1=mongodb+srv://ananduse:3CTLbbttBT7wTZw@cluster0.zt0q7.mongodb.net/hmis?authSource=admin&replicaSet=atlas-fyf4l0-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true
+MONGO_URL3=mongodb+srv://ananduse:3CTLbbttBT7wTZw@cluster0.zt0q7.mongodb.net/hmis?retryWrites=true&w=majority
+MONGO_URL= mongodb+srv://adminprabha:Atlas@123@aws.dwzni.mongodb.net/HMISV2?retryWrites=true&w=majority
+Loal = mongodb://localhost:27017/HMISV3
